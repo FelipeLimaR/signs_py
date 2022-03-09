@@ -65,6 +65,12 @@ s11 = str("Aquário")
 s12 = str("Peixes")
 
                                                           ###MENU VALORES /\
+  
+ ###VENUS DEFAULT \/
+if ano != 1990:
+    venus2 = s1
+    
+ ###VENUS DEFAULT /\
 
 
 
