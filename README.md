@@ -4,6 +4,8 @@ Mapa astral em python.
 Astrological chart on python.
 
 
+*only for academic reason
+
 incompleto!
 
 
